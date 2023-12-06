@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\smari\Desktop\Pipes_SO\Pipes_SO_Stan_Marian\Main.cpp(43,23): warning C4101: 'pi': unreferenced local variable
+  Pipes_SO_Stan_Marian.vcxproj -> C:\Users\smari\Desktop\Pipes_SO\Pipes_SO_Stan_Marian\x64\Debug\Pipes_SO_Stan_Marian.exe
